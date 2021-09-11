@@ -1,0 +1,30 @@
+.label {
+  background-color: #f8f9fe;
+  height: 96px;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  margin: 24px 0;
+  padding: 0 8%;
+  border: 1px solid #f8f9fe;
+}
+
+.label:hover {
+  border: 1px solid #e6e7ec;
+}
+
+.icon {
+  width: 48px;
+  height: 48px;
+  background: url(../../assets/icon-music.svg);
+  background-repeat: no-repeat;
+  margin-right: 16px;
+}
+
+.link {
+  margin-left: auto;
+}
+
+.link:hover {
+  color: #382ae1;
+}
